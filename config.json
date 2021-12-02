@@ -1,7 +1,7 @@
 {
     "Bot_Info": {
-        "token": "ODU0OTk4MjExNjcyMjc3MDAz.YMsFIg._sVla0Lm2iUSlrmKeUL8F0_8ULs",
-        "prefix": "!"
+        "token": "",
+        "prefix": ""
     },
    "Embed_Defaults": {
        "EmbedColour": "RANDOM"
